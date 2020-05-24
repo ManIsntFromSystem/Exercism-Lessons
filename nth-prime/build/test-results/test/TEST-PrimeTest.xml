@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrimeTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-05-20T08:42:47" hostname="ManIsntFromSystem" time="2.889">
+  <properties/>
+  <testcase name="undefinedPrime" classname="PrimeTest" time="0.015"/>
+  <testcase name="sixthPrime" classname="PrimeTest" time="0.057"/>
+  <testcase name="firstPrime" classname="PrimeTest" time="0.0"/>
+  <testcase name="secondPrime" classname="PrimeTest" time="0.0"/>
+  <testcase name="bigPrime" classname="PrimeTest" time="2.815"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

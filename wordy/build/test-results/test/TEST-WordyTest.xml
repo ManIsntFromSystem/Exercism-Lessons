@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordyTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2020-05-01T13:05:56" hostname="ManIsntFromSystem" time="0.09">
+  <properties/>
+  <testcase name="addition and multiplication" classname="WordyTest" time="0.067"/>
+  <testcase name="subtraction" classname="WordyTest" time="0.0"/>
+  <testcase name="large addition" classname="WordyTest" time="0.001"/>
+  <testcase name="reject problem missing an operand" classname="WordyTest" time="0.001"/>
+  <testcase name="missing operation" classname="WordyTest" time="0.0"/>
+  <testcase name="multiple division" classname="WordyTest" time="0.001"/>
+  <testcase name="addition" classname="WordyTest" time="0.001"/>
+  <testcase name="non math question" classname="WordyTest" time="0.001"/>
+  <testcase name="addition with negative numbers" classname="WordyTest" time="0.0"/>
+  <testcase name="subtraction then addition" classname="WordyTest" time="0.0"/>
+  <testcase name="more addition" classname="WordyTest" time="0.001"/>
+  <testcase name="multiple subtraction" classname="WordyTest" time="0.001"/>
+  <testcase name="power" classname="WordyTest" time="0.001"/>
+  <testcase name="division" classname="WordyTest" time="0.001"/>
+  <testcase name="multiple additions" classname="WordyTest" time="0.0"/>
+  <testcase name="multiple multiplication" classname="WordyTest" time="0.001"/>
+  <testcase name="just a number" classname="WordyTest" time="0.0"/>
+  <testcase name="reject postfix notation" classname="WordyTest" time="0.001"/>
+  <testcase name="multiplication" classname="WordyTest" time="0.0"/>
+  <testcase name="reject two numbers in a row" classname="WordyTest" time="0.001"/>
+  <testcase name="reject prefix notation" classname="WordyTest" time="0.001"/>
+  <testcase name="reject problem with no operands or operators" classname="WordyTest" time="0.001"/>
+  <testcase name="unknown operation" classname="WordyTest" time="0.001"/>
+  <testcase name="addition and subtraction" classname="WordyTest" time="0.001"/>
+  <testcase name="missing number" classname="WordyTest" time="0.0"/>
+  <testcase name="reject two operations in a row" classname="WordyTest" time="0.0"/>
+  <system-out><![CDATA[[What, is, -3, plus, 7, multiplied, -2]
+[What, is, 4, minus, -12]
+[What, is, 123, plus, 45678]
+[What, is, 1, plus]
+[What, is, 2, 2, minus, 3]
+[What, is, -12, divided, 2, divided, -3]
+[What, is, 1, plus, 1]
+[Who, is, the, President, of, the, United, States]
+[What, is, -1, plus, -10]
+[What, is, 17, minus, 6, plus, 3]
+[What, is, 53, plus, 2]
+[What, is, 20, minus, 4, minus, 13]
+[What, is, 2, raised, to, the, 5th, power]
+[What, is, 33, divided, -3]
+[What, is, 1, plus, 1, plus, 1]
+[What, is, 2, multiplied, -2, multiplied, 3]
+[What, is, 5]
+[What, is, 1, 2, plus]
+[What, is, -3, multiplied, 25]
+[What, is, 1, plus, 2, 1]
+[What, is, plus, 1, 2]
+[What, is]
+[What, is, 52, cubed]
+[What, is, 1, plus, 5, minus, -2]
+[What, is, 7, plus, multiplied, -2]
+[What, is, 1, plus, plus, 2]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
